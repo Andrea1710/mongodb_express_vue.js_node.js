@@ -18,7 +18,7 @@ npm run dev
 
 ## Usage
 
-Open the Browser at http://localhost:3000
+Open the Browser at http://localhost:3000 and see the Table with the form to Add, Remove and Update Tasks.
 
 ## Author
 
